@@ -3,13 +3,8 @@ Automated plant watering system using Arduino UNO
 
 
 Current hardware components: 
-
-Arduino uno compatibel r31
-
-expansion board
-
-soil temperature and humidity sensor
-
-relay module
-
-Small water pump
+- Arduino uno compatibel r31
+- Expansion board
+- Soil temperature and humidity sensor
+- Relay module
+- Small water pump
