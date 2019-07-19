@@ -1,4 +1,4 @@
-# plant_water_automatisation
+# Plant watering automatisation
 Automated plant watering system using Arduino UNO
 
 
